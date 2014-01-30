@@ -11,4 +11,4 @@ Start at the top, and work through the tutorials in order. If you have some expe
 
 Ready?
 
-Begin here: http://ashes999.github.io/pixel-art-training
+Begin here: http://ashes999.github.io/pixel-artist-training
