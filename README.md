@@ -10,6 +10,8 @@ Ultimately, only you can judge whether you have learned something enough to prog
 
 Start at the top, and work through the tutorials in order. If you have some experience, skim until you find a comfortable place to dive into.
 
+Also, I suggest opening an account somewhere like [deviantArt](http://www.deviantart.com) where you can post your work. It provides you with a good, historical record of your progression (and occasional feedback from others).
+
 Ready? Let's begin.
 
 ### Tutorials
@@ -34,6 +36,12 @@ Pixel Art works with a specific style of lines. You need to master lines in orde
 - Create a piece like the Combining Shapes tutorial, which is a composite of multiple basic shapes.
 - Create a piece using curvy lines using the Les Forages transition method (`5 4 3 2 2 1 1 1 2 3` ...)
 - Create at least three pieces of pure line-art for three objects (eg. sword, dragon, toaster).
+
+### Where to get Critiques
+Stuck trying to achieve some effect? Can't tell what's wrong with your piece? You can try posting your art at any of the below locations to solicit feedback.
+
+- Way of the Pixel's forums under [Pixel Art](http://wayofthepixel.net/index.php?board=2.0)
+- PixelJoint's forums under [Help and Support](http://www.pixeljoint.com/forum/forum_topics.asp?FID=6)
 
 ### References
 - [Pixel Art Tutorial: Basics for Beginners, by Gasara (deviantArt)](http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783)
