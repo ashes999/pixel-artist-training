@@ -27,7 +27,7 @@ Pixel Art works with a specific style of lines. You need to master lines in orde
 
 **Readings:**
 - Chapter 2 of [The Complete Guide to Isometric Pixel Art](http://www.xena.ww7.be/neofutur/tools/pixelart/).
-- Chapter 2 of [Les Forages Pixel Art Tutorial](http://opengameart.org/content/chapter-2-lines-and-curves).
+- Chapter 2: [Lines and Curves](http://opengameart.org/content/chapter-2-lines-and-curves).
 
 **Workshop:**
 - Create all of the basic shapes (cube, sphere, cylinder, and pyramid) from the first reading.
