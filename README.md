@@ -37,12 +37,13 @@ Pixel Art works with a specific style of lines. You need to master lines in orde
 - Create a piece using curvy lines using the Les Forages transition method (`5 4 3 2 2 1 1 1 2 3` ...)
 - Create at least three pieces of pure line-art for three objects (eg. sword, dragon, toaster).
 
-### Where to get Critiques
-Stuck trying to achieve some effect? Can't tell what's wrong with your piece? You can try posting your art at any of the below locations to solicit feedback.
+### Where to get Feedback
+Stuck trying to achieve some effect? Can't tell what's wrong with your shadows? You can try posting your art at any of the below locations to solicit feedback.
 
 - Way of the Pixel's forums under [Pixel Art](http://wayofthepixel.net/index.php?board=2.0)
 - PixelJoint's forums under [Help and Support](http://www.pixeljoint.com/forum/forum_topics.asp?FID=6)
 
 ### References
-- [Pixel Art Tutorial: Basics for Beginners, by Gasara (deviantArt)](http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783)
+- [Les Forages Pixel Art Course](http://opengameart.org/content/les-forges-pixel-art-course)
 - [The Complete Guide to to Isometric Pixel Art](http://www.xena.ww7.be/neofutur/tools/pixelart/)
+- [Pixel Art Tutorial: Basics for Beginners, by Gasara (deviantArt)](http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783)
