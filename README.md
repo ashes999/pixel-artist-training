@@ -12,8 +12,4 @@ Ultimately, only you can judge whether you have learned something enough to prog
 
 Start at the top, and work through the tutorials in order. If you have some experience, skim until you find a comfortable place to dive into.
 
-Ready? Let's begin.
-
-###Tutorials
-
-TBD
+Ready? Begin [here](http://ashes999.github.io/pixel-artist-training/).
