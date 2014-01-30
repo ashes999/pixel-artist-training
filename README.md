@@ -1,4 +1,4 @@
-**Note:** This is the raw version; the pretty version is here: http://ashes999.github.io/pixel-artist-training
+**Note:** This is just the introduction. The full content is available [here](http://ashes999.github.io/pixel-artist-training/).
 
 ###So You Want to be a Pixel Artist
 
