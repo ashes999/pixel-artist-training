@@ -54,13 +54,21 @@ Pixel Art works with a specific style of lines. You need to master lines in orde
 **Workshop:**
 - Create something with an irregular shape (eg. slime, treasure chest) and shade it. 
 - Re-shade the above piece, from a different angle.
-- Recolour the over-saturated image from the second reading, and make it look better.
-- Create something using four shades of grey. It should look good. Now copy/paste and colour it.
+- Create something using four shades of grey. It should look good. (Save it for the Colour section.)
+
+#### Colour
+**Readings:**
+- http://opengameart.org/content/chapter-5-color-palettes
+
+**Workshop:**
+- Colour your grey-scale image from the Lighting and Shadows section. Use the rule of "darker colours are more saturated."
+- Recolour your image, using the rule of "lighter colours are more saturated."
 
 #### Advanced/Misc
 - http://finalbossblues.com/tiling-tiles/ (create a grass tile; sand tile)
 - http://opengameart.org/content/chapter-4-shadow-and-light (create reflected light, like the final image)
 - http://ashiqalibhai.deviantart.com/art/Spriting-Fakemon-Tutorial-V-3-280927794 (create a fakemon)
+- http://opengameart.org/content/chapter-5-color-palettes (create a gem, and use white for highlighting. Create something metal, and again use white for highlighting.)
 
 ### Where to get Feedback
 Stuck trying to achieve some effect? Can't tell what's wrong with your shadows? You can try posting your art at any of the below locations to solicit feedback.
