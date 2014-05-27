@@ -71,7 +71,7 @@ Pixel Art works with a specific style of lines. You need to master lines in orde
 - http://opengameart.org/content/chapter-5-color-palettes (create a gem, and use white for highlighting. Create something metal, and again use white for highlighting.)
 - http://gas13.ru/v3/tutorials/sywtbapa_world_of_sprites.php (create a 32x32 character)
 - Create a walk cycle after following these tutorials: [part 1](http://finalbossblues.com/walk-cycles-p1/), [part 2](http://finalbossblues.com/walk-cycles-part-2/)
-- 
+
 ### Where to get Feedback
 Stuck trying to achieve some effect? Can't tell what's wrong with your shadows? You can try posting your art at any of the below locations to solicit feedback.
 
