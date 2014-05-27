@@ -1,7 +1,5 @@
 **Note:** This is just the raw Markdown version. The full content is available [here](http://ashes999.github.io/pixel-artist-training/).
 
-**Note:** This is just the raw Markdown version. The full content is available [here](http://ashes999.github.io/pixel-artist-training/).
-
 ### So You Want to be a Pixel Artist
 Being a pixel artist is a challenge. It takes dedication, skill, and above all, persistence and practice. Instead of struggling through random tutorials, I decided to put together a rigorous gauntlet, a veritable curriculum, an interactive workshop, that takes you through the stages from your first pixel art to mastering the finer points of pixelry.
 
@@ -72,7 +70,8 @@ Pixel Art works with a specific style of lines. You need to master lines in orde
 - http://ashiqalibhai.deviantart.com/art/Spriting-Fakemon-Tutorial-V-3-280927794 (create a fakemon)
 - http://opengameart.org/content/chapter-5-color-palettes (create a gem, and use white for highlighting. Create something metal, and again use white for highlighting.)
 - http://gas13.ru/v3/tutorials/sywtbapa_world_of_sprites.php (create a 32x32 character)
-
+- Create a walk cycle after following these tutorials: [part 1](http://finalbossblues.com/walk-cycles-p1/), [part 2](http://finalbossblues.com/walk-cycles-part-2/)
+- 
 ### Where to get Feedback
 Stuck trying to achieve some effect? Can't tell what's wrong with your shadows? You can try posting your art at any of the below locations to solicit feedback.
 
