@@ -24,6 +24,15 @@ You need an accessible image manipulation tool for pixel art. GIMP is the way to
 **Workshop:**
 - Download and install [GIMP] (http://www.gimp.org/downloads/).
 
+#### General Introduction
+Tutorials here just contain generix pixel art stuff, mixing concepts from other sections (like line art, perspective, etc.) together for you. These are simplified, but useful, tutorials.
+
+**Readings:**
+- [What's the Deal with Pixel Art?](http://design.tutsplus.com/articles/whats-the-deal-with-pixel-art--cms-21759): A great, illustrative introduction about pixel art, history, and contemporary usage.
+
+**Workshop:**
+- [Create a series of breakfast pixel art icons](http://design.tutsplus.com/tutorials/create-a-series-of-breakfast-pixel-art-icons-in-adobe-photoshop--cms-21346): a good walkthrough of creating some basic, polished pixel art. Although the tutorial uses Photoshop, you can use any tool.
+
 #### Line Art
 Pixel Art works with a specific style of lines. You need to master lines in order to create art that doesn't look jagged or "wrong."
 
